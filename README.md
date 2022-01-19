@@ -47,15 +47,7 @@
 
 </div>
 
-
-<br><br>
-
-
-
-
-
-
-<div align=center><h1>Hits</h1>
+<div align=center>
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimdaeyeobbb%2Fhit-counter&count_bg=%233E9DFF&title_bg=%2379BDFF&icon=&icon_color=%23EB1A1A&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 
