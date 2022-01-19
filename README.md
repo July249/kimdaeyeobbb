@@ -2,9 +2,7 @@
 
   ![header](https://capsule-render.vercel.app/api?type=waving&color=B897FF&height=300&section=header&text=Just%20Keep%20Going&fontSize=90)
 
-  ### 👋 Hi there 👋
-  <br><br>
-  
+  <br>
   
   
   <div align=center><h1>💻 STACKS</h1></div>
@@ -33,7 +31,7 @@
 
 </div>
   
-<br><br>
+<br>
  
  
  
