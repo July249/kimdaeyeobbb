@@ -24,11 +24,11 @@
 
 
 
-<div align=center><h1>☀️ GitHub stats</h1></div>
-
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaeyeobbb&&show_icons=true&theme=buefy)
-[![kimdaeyeobbb's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaeyeobbb&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimdaeyeobbb)
+<div align=center><h1>☀️ GitHub stats</h1>
   
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimdaeyeobbb&&show_icons=true&theme=buefy)
+[![kimdaeyeobbb's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimdaeyeobbb&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimdaeyeobbb)
+</div> 
 <br>
  
  
