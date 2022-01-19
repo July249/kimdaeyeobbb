@@ -21,7 +21,10 @@
   <br>
 </div>
 
- <br><br><br><br><br>
+ <br><br>
+
+
+
 
 <div align=center><h1>☀️ GitHub stats</h1>
 
@@ -30,7 +33,7 @@
 
 </div>
   
-<br><br><br><br><br>
+<br><br>
  
  
  
@@ -45,7 +48,7 @@
 </div>
 
 
-<br><br><br>
+<br><br>
 
 
 
